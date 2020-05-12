@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "adc.h": "c",
+    "tim.h": "c",
+    "main.h": "c",
+    "stm32f4xx_hal.h": "c",
+    "stm32f4xx_hal_conf.h": "c",
+    "algorithm": "cpp",
+    "user_app_core.h": "c",
+    "stdlib.h": "c"
+  }
+}
